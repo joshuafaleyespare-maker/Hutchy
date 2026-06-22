@@ -182,7 +182,7 @@ a {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url('images/hero-bg.jpg') center/cover no-repeat,
+    background: url('hero-bg.jpg') center/cover no-repeat,
                 linear-gradient(135deg, #1a3a1a 0%, #2d5a27 40%, #1a3a1a 100%);
     color: var(--white);
 }
